@@ -19,14 +19,13 @@ body{
     color:white;
     margin-bottom:35px;
 }
-#thin{
-    font-size:50px;
-    margin:0;
+.top-txt{
+    margin-top:30px;
 }
 #bold-txt{
     font-weight:bolder;
-    font-size:50px;
-    margin:0;
+    font-size:60px;
+    margin:20px;
 }
 .upper-img{
     display:flex;
